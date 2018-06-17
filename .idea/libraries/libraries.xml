@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-core-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-imageio-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-iod-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-core-dcm4chee-arc-light-5.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-soundex-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-base64-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-hp-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/ij.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-image-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-filecache-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-imageio-rle-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-net-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/jai_imageio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/opencv-2410.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/dcm4che-audit-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kwod/libraries/slf4j-log4j12-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
